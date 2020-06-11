@@ -8,7 +8,7 @@ In this example we can see the minimum steps in a machine learning program:
 3. Model training
 4. Model evaluation
 
-# Machine learning cyccle
+# Machine learning cycle
 In general machine learning implementation has below steps:
 1. Data collection
 2. Exploratory daata analysis
